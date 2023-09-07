@@ -106,7 +106,7 @@ General Assets
  * https://icons8.com/ouch
  * https://isometric.online/
 # Animations
-[https://ionicons.com/](https://www.mixamo.com/#/)
+ * https://www.mixamo.com/#/
 # Pixel Art & Tools
  * https://aseprite.org/
  * https://www.piskelapp.com/
