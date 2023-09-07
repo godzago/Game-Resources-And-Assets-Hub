@@ -83,7 +83,7 @@ General Assets
 
 # Buttons & Badges
  * https://imagefu.com/
- * Textures & Tiles
+# Textures & Tiles
  * https://textures.com/
  * https://gametextures.com/shop
  * https://quixel.com/megascans/home
