@@ -1,5 +1,5 @@
 # Game Assets
-This guide has been written by ChatGPT. ChatGPT helps you create attractive game assets, App Store screenshots, Google Play screenshots, app icons, logos, and other graphics for games, apps, and extensions.
+This guide has been written by. ChatGPT helps you create attractive game assets, App Store screenshots, Google Play screenshots, app icons, logos, and other graphics for games, apps, and extensions.
 
 # Overview
 This page documents both free and paid assets and resources for making Unity games, iOS games, Android games, 2D and 3D games. While most of these game assets and game resources are free, some may also offer paid assets with a custom model. Whenever possible, we strictly avoid paid assets and resources unless they are best in class.
